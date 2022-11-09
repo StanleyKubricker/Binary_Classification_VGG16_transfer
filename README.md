@@ -1,2 +1,3 @@
-# Binary_Classification_VGG16_transfer
-Binary Classification via VGG16 transfer learning
+# Computer vision binary classification utilising CNN and transfer learning
+
+This 
